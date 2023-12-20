@@ -1,4 +1,16 @@
-### Hi there 👋
+### ¡Hola! 👋
+
+Soy un programador en lua y variados lenguajes de programacion.
+
+----------------------------------------------------------------
+
+Mi servidor de discord
+
+https://discord.gg/XxXRm4gBdd
+
+Mi bot de musica
+
+https://discord.com/oauth2/authorize?client_id=1173339848938106920&permissions=49308492684096&scope=bot
 
 <!--
 **outrozl/outrozl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
