@@ -10,7 +10,7 @@ https://discord.gg/XxXRm4gBdd
 
 Mi bot de musica
 
-https://discord.com/oauth2/authorize?client_id=1173339848938106920&permissions=49308492684096&scope=bot
+no disponible
 
 ----------------------------------------------------------------
 
