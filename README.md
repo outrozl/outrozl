@@ -16,6 +16,16 @@ https://discord.com/oauth2/authorize?client_id=1173339848938106920&permissions=4
 
 Scripts desarrollados por mi (Roblox exploiting)
 
+### Ejecutame (PC)
+
+MM2: loadstring(game:HttpGet("https://raw.githubusercontent.com/outrozl/scripts/main/mm2.lua"))()
+
+Blox Fruits: loadstring(game:HttpGet('https://raw.githubusercontent.com/outrozl/Bfui/main/loader.lua'))()
+
+### Ejecutame (Movil)
+
+Blox Fruits: loadstring(game:HttpGet("https://raw.githubusercontent.com/outrozl/scriptsmobile/main/bf.lua"))()
+
 <!--
 **outrozl/outrozl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
